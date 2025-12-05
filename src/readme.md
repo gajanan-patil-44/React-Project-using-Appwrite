@@ -6,11 +6,12 @@
 
 # config.js file created which includes 
 - appwites databases, custom queries, and created some services like 
-    >createPost
+ ```>createPost
     >updatePost
     >deletePost
     >getPost
     >getPostsList
     >uploadFile
     >deleteFile
-    >getFilePreview
+    >getFilePreview 
+```
