@@ -15,3 +15,9 @@
     >deleteFile
     >getFilePreview 
 ```
+# Configured redux-toolkit 
+
+- configured store, which included reducer named authReducer
+- created authSlice, which includes initial state, reducers:- 1. login 2. logout (it can called actions)
+- create const [loading, setLoading] = useState(true); and useEffect in app.jsx
+- dispatch(login({user}))  and dispatch(logout()) in app.jsx
