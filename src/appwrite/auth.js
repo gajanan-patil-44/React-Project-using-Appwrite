@@ -44,8 +44,8 @@ class AuthService {
         } catch (error) {
             console.log(`Error getting current user:: getCurrentUser error :: ${error}`);
             
-        }
-        return null;
+          }
+          return null;
     }
 
     async logout() {
@@ -56,6 +56,6 @@ class AuthService {
         }
     }
 }
-const authservice = new AuthService();
+const authService = new AuthService();
 
-export default authservice;
+export default authService;
