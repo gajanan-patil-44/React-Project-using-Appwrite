@@ -21,3 +21,11 @@
 - created authSlice, which includes initial state, reducers:- 1. login 2. logout (it can called actions)
 - create const [loading, setLoading] = useState(true); and useEffect in app.jsx
 - dispatch(login({user}))  and dispatch(logout()) in app.jsx
+
+# Building Header.jsx 
+
+- useSelector (to check status)
+- useNavigate (to navigate according to slug)
+- Binding inside Container complonent after importing it. 
+## Designed Input.jsx (input field )
+- forwardRef() to connect specific label with respect to there Input field.
