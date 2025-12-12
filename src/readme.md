@@ -29,3 +29,11 @@
 - Binding inside Container complonent after importing it. 
 ## Designed Input.jsx (input field )
 - forwardRef() to connect specific label with respect to there Input field.
+
+# created react hooks 
+- created Select.jsx (options are coming that can be in selected)
+- PostCard.jsx (preview of post is displayed in home through getFilePreview() through appwriteService)
+- - useForm() uses in further components
+- created Login.jsx component (also it validate email and password)
+- created Signup.jsx comenent (also it validate email and password)
+- AuthLayout.jsx (to authenticate user at each time)
