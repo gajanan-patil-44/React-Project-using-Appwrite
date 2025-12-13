@@ -37,3 +37,9 @@
 - created Login.jsx component (also it validate email and password)
 - created Signup.jsx comenent (also it validate email and password)
 - AuthLayout.jsx (to authenticate user at each time)
+
+# adding form and slug value
+- created RTE.jsx (It is Real Time Editor which also been using <Controller> . There we have control, render, plugins, toolbar, content_style *this all are perform on - onEditorChange() )
+- PostForm.jsx (it has components related post or update the articles and display it, if available using featuredImage.)
+- created slug for articles based on their title. 
+- display the all containts of post along with slug and this slug attached with title input section it generate dinamically along with title of that post.
