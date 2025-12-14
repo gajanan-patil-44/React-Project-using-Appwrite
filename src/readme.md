@@ -43,3 +43,12 @@
 - PostForm.jsx (it has components related post or update the articles and display it, if available using featuredImage.)
 - created slug for articles based on their title. 
 - display the all containts of post along with slug and this slug attached with title input section it generate dinamically along with title of that post.
+
+# created all required pages 
+- AddPost.jsx
+- AllPost.jsx
+- EditPost.jsx
+- Home.jsx
+- Login.jsx
+- Post.jsx
+- Signup.jsx
